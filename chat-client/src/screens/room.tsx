@@ -1,6 +1,5 @@
 import { useContext, useState } from "react";
 import MessageFeed from "../components/chat/message-feed";
-import UsersList from "../components/chat/users-list";
 import { AppStateContext } from "../components/providers/state.provider";
 import { Message } from "../lib/types";
 import { socket } from "../App";
