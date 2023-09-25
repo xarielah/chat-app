@@ -1,0 +1,4 @@
+dist
+.env.*
+/chat-client/node_modules/
+/node_modules/
